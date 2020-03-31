@@ -12,6 +12,16 @@
 * Disease process/prognosis and therapeutic regimen understood
 * Plan in place to meet needs after discharge
 
+# Question 6
+Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
+
+[WRONG] Achievement of airway clearance
+[WRONG] Improvement in breathing pattern
+[WRONG] Independence in self-care activities
+[RIGHT] Continuation of existing lifestyle
+
+* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
+
 ### Nursing priorities
 * Maintain airway patency
 * Assist with measures to facilitate gas exchange
@@ -19,7 +29,7 @@
 * Prevent complications, slow progression of condition
 * Provide information about disease process/prognosis and treatment regimen
 
-### Nursing Care Plan interventions
+# Nursing Care Plan interventions
 * Patient and family teaching is an important nursing intervention to enhance self-management in patients with any chronic pulmonary disorder
 
 To achieve airway clearance:
@@ -52,6 +62,8 @@ Evaluating the effectiveness of the interventions outlined in the plan of care c
 * Practices breathing techniques
 * Performs activities with less shortness of breath
 
+# Guidelines 
+
 ### Discharge and Home Care Guidelines
 
 It is important for the nurse to assess the knowledge of patient and family members about self-care and the therapeutic regimen.
@@ -77,15 +89,6 @@ Documentation is an essential part of the patient’s chart to reflect the plans
 * Document modifications to plan of care
 * Document attainment or progress towards goals
 
-# Question 6
-Goals to achieve in management of patients with COPD include all of the following, EXCEPT:
-
-[WRONG] Achievement of airway clearance
-[WRONG] Improvement in breathing pattern
-[WRONG] Independence in self-care activities
-[RIGHT] Continuation of existing lifestyle
-
-* The patient should be made aware of existing habits which are causing COPD (e.g. smoking, exposure to chemicals) and encouraged to make changes.
 
 # Treatment
 
@@ -97,17 +100,12 @@ The following are treatments to manage COPD:
 * Treating infection/purulent sputum with antimicrobials
 * Administering medications similar to those used for asthma
 
+
 # Anticholinergic agents
 * Decrease airway secretions and smooth muscle tone
 * Tipratropium bromide (Atrovent) and tiotropium bromide (Spiriva)
 * Side effects – dry mouth and hacking cough
 
-# Question 7
-Which treatment is NOT used to manage COPD?
-
-[RIGHT] Isolation
-[WRONG] Smoking cessation
-[WRONG] Oxygen therapy
 
 # Bronchodilators
 
@@ -124,6 +122,14 @@ Which treatment is NOT used to manage COPD?
 ### Long acting inhaled agents 
 * Salmeterol (Serevent). Prolonged receptor-binding, requires patient education to avoid cardiac arrhythmias
 
+# Question 7
+Which treatment is NOT used to manage COPD?
+
+[RIGHT] Isolation
+[WRONG] Smoking cessation
+[WRONG] Oxygen therapy
+
+
 # Question 8
 Which classification of drugs includes albuterol, terbutaline, and metaproterenol?
 
@@ -139,7 +145,7 @@ Which effect does the bronchodilator Salmeterol (Serevent) have?
 
 # Corticosteroids
 
-### Metered dose inhalers. 
+### Metered dose inhalers 
 * Triamcinilone acetonide (Azmacort)
 * Fluticasone propionate (Flovent)
 * Beclomethasone dipropionate (Beclovent, Vanceril)
