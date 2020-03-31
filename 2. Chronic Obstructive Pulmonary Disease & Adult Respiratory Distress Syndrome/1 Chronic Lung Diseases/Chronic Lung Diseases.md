@@ -26,25 +26,12 @@ Which two diseases are included in categories of COPD?
 
 * Chronic bronchitis and emphysema belong to the old classification of COPD. Asthma may be one of the chronic pulmonary diseases but atelectasis is not. Pneumonia and pleurisy are not classified under the COPD. Tuberculosis and pleural effusion are not chronic pulmonary diseases.
 
-# Question 3
-Which factor is involved in the underlying pathophysiology of COPD?
+# Question 5
+Which condition is NOT considered a category of COPD?
 
-[WRONG] Inflamed airways that obstruct airflow
-[WRONG] Mucus secretion that blocks airways
-[WRONG] Alveolar wall destruction
-[RIGHT] Variations in all of the above
-
-* Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
-
-# Question 4
-In a patient with COPD, where does the abnormal inflammatory response occur?
-
-[WRONG] Airways
-[WRONG] Lung parenchyma
-[WRONG] Pulmonary vasculature
-[RIGHT] All of the above areas
-
-* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD. 
+[RIGHT] Pneumonia
+[WRONG] Emphysema
+[WRONG] Chronic bronchitis
 
 # Emphysema -  Pathological Diagnosis
 
@@ -56,24 +43,6 @@ An abnormal distention of airspaces beyond the terminal bronchioles and destruct
 * Hyperinflation
 * Loss of lung elastic recoil
 * Destruction of the alveolar-capillar interface
-
-### Alveolus in Emphysema
-
-![](assets/alveolus_in_emphysema1.png)
-
-![](assets/alveolus_in_emphysema2.png)
-
-### Lung in Emphysema
-
-![](assets/lung_in_emphysema.png)
-
-### Destroyed Lung parenchyma
-
-![](assets/destroyed_lung_parenchyma.png)
-
-### CXR of patient with Emphysema
-
-![](assets/CXR.png)
 
 ### Emphysema (Pink puffer)
 * Progressive constant dyspnea
@@ -115,25 +84,28 @@ Which condition is characterized by an abnormal permanent enlargement of the air
 [WRONG] Chronic bronchitis
 [WRONG] Pneumonia
 
-# Question 5
-Which condition is NOT considered a category of COPD?
 
-[RIGHT] Pneumonia
-[WRONG] Emphysema
-[WRONG] Chronic bronchitis
+# Alveolus and lungs in Emphysema
 
-# Question 5
-Which environmental risk factor is most important in development of emphysema?
+### Alveolus in Emphysema
 
-[WRONG] Air pollution
-[WRONG] Allergens
-[WRONG] Infectious agents
-[RIGHT] Cigarette smoking
+![](assets/alveolus_in_emphysema1.png)
 
-* Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
+![](assets/alveolus_in_emphysema2.png)
+
+### Lung in Emphysema
+
+![](assets/lung_in_emphysema.png)
+
+![](assets/destroyed_lung_parenchyma.png)
+
+### CXR of patient with Emphysema
+
+![](assets/CXR.png)
+
 
 # Chronic Bronchitis - Clinical Diagnosis
-A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years
+A disease of the airways, defined as the presence of cough and sputum production for at least 3 months in each of 2 consecutive years.
 * Patients with Chronic Bronchitis, often referred to as "Blue Bloaters," tend to be large persons with cyanosis, edema, and relatively little dyspnea.
 
 ### Pathology
@@ -168,14 +140,6 @@ A disease of the airways, defined as the presence of cough and sputum production
 ### Airway in Chronic Bronchitis
 ![](assets/airway_in_chronic_bronchitis.png)
 
-### Risk Factors
-* Cigarette smoking
-* Chronic respiratory infections
-* Occupational/environmental exposure – dust,chemicals, fumes
-* Allergies
-* A-protease inhibitor deficiency
-
-COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
 
 # Question 6
 Chronic bronchitis is characterized by:
@@ -190,6 +154,27 @@ Which condition is manifested by a productive cough for greater than 3 months in
 [RIGHT] Chronic bronchitis
 [WRONG] Acute pneumonia
 [WRONG] Pneumothorax
+
+# Risk factors of Chronic Bronchitis and emphysema
+### Risk Factors
+* Cigarette smoking
+* Chronic respiratory infections
+* Occupational/environmental exposure – dust,chemicals, fumes
+* Allergies
+* A-protease inhibitor deficiency
+
+COPD gradually worsens. HOWEVER, early detection, treatment and modification of risk factors can alter the disease course.
+
+# Question 5
+Which environmental factor is most important in development of emphysema?
+
+[WRONG] Air pollution
+[WRONG] Allergens
+[WRONG] Infectious agents
+[RIGHT] Cigarette smoking
+
+* Cigarette smoking is the foremost factor in the development of emphysema. Air pollution is a risk factor in the development of emphysema but it is not the primary factor. Allergens may contribute to the development of emphysema but it is not the main factor. Infectious agents are part of the risk factors for emphysema but it is not the main factor.
+
 
 # Infection and Pulmonary Hypertension
 
@@ -228,3 +213,23 @@ Which of the following conditions require a higher PEEP to be applied in recruit
 [RIGHT] Acute Respiratory Distress Syndrome
 [WRONG] Bronchietasis
 [WRONG] Emphysema
+
+# Question 3
+Which factor is involved in the underlying pathophysiology of COPD?
+
+[WRONG] Inflamed airways that obstruct airflow
+[WRONG] Mucus secretion that blocks airways
+[WRONG] Alveolar wall destruction
+[RIGHT] Variations in all of the above
+
+* Inflammation, hypersecretion of mucus, and alveolar wall destruction are included in the pathophysiology of COPD. Inflammation occurs through the proximal and peripheral airways, lung parenchyma, and pulmonary vasculature. Hypersecretion occurs due to the increase in the number of goblet cells. Alveolar wall destruction leads to loss of alveolar attachments and a decrease in elastic recoil.
+
+# Question 4
+In a patient with COPD, where does the abnormal inflammatory response occur?
+
+[WRONG] Airways
+[WRONG] Lung parenchyma
+[WRONG] Pulmonary vasculature
+[RIGHT] All of the above areas
+
+* The airways, parenchyma, and pulmonary vasculature undergo inflammation in COPD. 
