@@ -41,9 +41,9 @@ Causes that lead to tension pneumothorax
 * Open pneumothorax when an occlusive dressing allows air into, but not out of, the pleural space
 
 # Epidemiology
-Primary spontaneous pneumothorax mostly occurs in 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year[5]. The majority of recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days.
+Primary spontaneous pneumothorax (PSP) mostly occurs in 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year[5]. The majority of recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days.
 
-Secondary spontaneous pneumothorax is more seen in old age patients 60-65 years. The incidence of SSP is 6.3 and 2 cases for men and women per 100,000 patients, respectively. The male to female ratio is 3:1. COPD has an incidence of 26 pneumothoraces per 100,000 patients.[6] The risk of spontaneous pneumothorax in heavy smokers is 102 times higher than non-smokers.
+Secondary spontaneous pneumothorax (SSP) is more seen in old age patients 60-65 years. The incidence of SSP is 6.3 and 2 cases for men and women per 100,000 patients, respectively. The male to female ratio is 3:1. COPD has an incidence of 26 pneumothoraces per 100,000 patients.[6] The risk of spontaneous pneumothorax in heavy smokers is 102 times higher than non-smokers.
 
 The leading cause of medically induced (iatrogenic) pneumothorax is transthoracic needle aspiration (usually for biopsies), and the second leading cause is central venous catheterization. These occur more frequently than spontaneous pneumothorax, and their number is increasing as intensive care modalities are advancing. The incidence of iatrogenic pneumothorax is 5 per 10,000 admissions in the hospital.
 
@@ -67,7 +67,7 @@ In primary spontaneous pneumothorax, the patient is minimally symptomatic as oth
 
 The history of pneumothorax in the past is important as recurrence is seen in 15-40% cases. Recurrence on the contralateral side can also occur.
 
-On examination, the following findings are noted
+On examination, the following findings are noted:
 
 * Respiratory discomfort
 * Increased respiratory rate
@@ -76,7 +76,7 @@ On examination, the following findings are noted
 * Hyperresonant percussion note
 * Decreased intensity of breath sounds or absent breath sounds
 
-In tension pneumothorax following additional findings are seen
+In tension pneumothorax, the following additional findings are seen: 
 * Tachycardia more than 134 beats per minute
 * Hypotension
 * Jugular venous distension
@@ -87,14 +87,16 @@ In tension pneumothorax following additional findings are seen
 Some traumatic pneumothoraces are associated with subcutaneous emphysema (crepitus). Pneumothorax may be difficult to diagnose from a physical exam, especially in a noisy trauma bay. However, it is essential to make the diagnosis of tension pneumothorax on a physical exam.
 
 # Evaluation
-Chest radiography, ultrasonography, or CT can be used for diagnosis, although diagnosis from a chest x-ray is more common. Radiographic findings of 2.5 cm air space are equivalent to a 30% pneumothorax. Occult pneumothoraces may be diagnosed by CT but are usually clinically insignificant.
-### Chest Xray: Tension Pneumothorax
+Chest radiography, ultrasonography, or CT can be used for diagnosis, although diagnosis from a chest X-ray is more common. Radiographic findings of 2.5 cm air space are equivalent to a 30% pneumothorax. Occult pneumothoraces may be diagnosed by CT but are usually clinically insignificant.
+### Chest X-ray: Tension Pneumothorax
 ![](assets/pneumothorax-xr.png)
 
 ### Pneumothorax: CT scan (right sided)
 ![](assets/pneumothorax-CTscan.png)
 
-The extended focused abdominal sonography for trauma (E-FAST) exam has been a more recent diagnostic tool for pneumothorax. The diagnosis of ultrasound is usually made by the absence of lung sliding, the absence of a comet-tails artifact, and the presence of a lung point. Unfortunately, this diagnostic method is very operator dependent and sensitivity, and specificity can vary. In skilled hands, ultrasonography has up to a 94% sensitivity and 100% specificity (better than chest x-ray). If a patient is hemodynamically unstable with suspected tension pneumothorax, intervention is not withheld to await imaging. Needle decompression can be performed if the patient is hemodynamically unstable with a convincing history and physical exam, indicating tension pneumothorax.
+The extended focused abdominal sonography for trauma (E-FAST) exam has been a more recent diagnostic tool for pneumothorax. The diagnosis of ultrasound is usually made by the absence of lung sliding, the absence of a comet-tails artifact, and the presence of a lung point. 
+
+Unfortunately, this diagnostic method is very operator dependent and sensitivity, and specificity can vary. In skilled hands, ultrasonography has up to a 94% sensitivity and 100% specificity (better than chest x-ray). If a patient is hemodynamically unstable with suspected tension pneumothorax, intervention is not withheld to await imaging. Needle decompression can be performed if the patient is hemodynamically unstable with a convincing history and physical exam, indicating tension pneumothorax.
 
 # Treatment / Management
 Management depends on the clinical scenario.
@@ -174,7 +176,7 @@ If there is a persistent or recurrent pneumothorax despite treatment with thorac
 If the patient is discharged from the hospital after a resolved pneumothorax, recommendations should be made for no flying or scuba diving for a minimum of two weeks. Patients with a known history of spontaneous pneumothorax should not be medically cleared for occupations involving flying or scuba diving.
 
 # Enhancing Healthcare Team Outcomes
-The management of a pneumothorax is often done by the emergency department physician. In some cases, the disorder may be managed by the ICU staff and the thoracic surgeon. The care of patients who have a chest tube is done by the nurse. All nurses who manage patients with a chest tube should know how a chest drain functions. Patients need to be examined every shift and the patency of the chest tube is important. Patients with small pneumothorax can be observed if they have no symptoms. If discharged the patient should be seen within 24 hours.
+The management of a pneumothorax is often done by the emergency department physician. In some cases, the disorder may be managed by the ICU staff and the thoracic surgeon. The care of patients who have a chest tube is done by the nurse. All nurses who manage patients with a chest tube should know how a chest drain functions. Patients need to be examined every shift and the patency of the chest tube is important. Patients with small pneumothorax can be observed if they have no symptoms. If discharged, the patient should be seen within 24 hours.
 ### Chest Drainage
 This image below shows the basic function ad setup of a water-seal chest drainage system.  
 ![](assets/itct1.png)
